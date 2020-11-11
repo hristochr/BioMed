@@ -12,3 +12,7 @@ The repo contains experiments I have done for [BioMed Varna.](http://biomedvarna
 2. Haralick features confusion matrices
 - two sets of confusion matrices are built
 - data are automatic annotations and expert annotations..
+
+3. Bio Process Mining
+- contains the code and initial analysis performed for the article **A Concept of Bio-process Mining Applied to Time-Resolved Developmental Dataset of the Roundworm C. elegans**,
+publication date: Oct 10, 2020, BioInfoMed 2020 International Symposium on Bioinformatics and Biomedicine, Oct 8th - 10th, 2020, Bourgas, Bulgaria
